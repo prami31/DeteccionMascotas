@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dogo Argentino</folder>
+	<filename>dogo_10.jpg</filename>
+	<path>D:\Mascotas\Dogo Argentino\dogo_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>189</width>
+		<height>267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>8</ymin>
+			<xmax>165</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>
