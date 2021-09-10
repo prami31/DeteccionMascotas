@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Chihuahua</folder>
+	<filename>41.jpg</filename>
+	<path>D:\Aprendizaje Automático\Proyecto\Images\Images\Fio\n02085620-Chihuahua\Chihuahua\41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>6</ymin>
+			<xmax>463</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>
