@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Afghan_hound</folder>
+	<filename>1.jpg</filename>
+	<path>D:\Aprendizaje Automático\Proyecto\Images\Images\Fio\n02088094-Afghan_hound\Afghan_hound\1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>486</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>227</ymin>
+			<xmax>432</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+</annotation>
