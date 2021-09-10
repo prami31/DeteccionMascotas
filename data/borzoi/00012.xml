@@ -1,0 +1,26 @@
+<annotation>
+	<folder>borzoi</folder>
+	<filename>12.jpg</filename>
+	<path>D:\Aprendizaje Automático\Proyecto\Images\Images\Fio\n02090622-borzoi\borzoi\12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>283</width>
+		<height>243</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>15</ymin>
+			<xmax>267</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>
