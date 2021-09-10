@@ -27,4 +27,3 @@ Proyecto hecho en python para el reconocimiento en tiempo real de canes perdidos
 #### Autores:✒️
 - **Milagros Yarahuaman Rojas** - _GitHub Account_ - [prami31](https://github.com/prami31)
 - **Fiorella Choque Bueno** - _GitHub Account_ - [FioChoque](https://github.com/FioChoque)
-##GO
