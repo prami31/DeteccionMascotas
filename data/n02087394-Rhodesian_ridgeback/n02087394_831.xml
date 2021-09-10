@@ -1,0 +1,26 @@
+<annotation>
+	<folder>n02087394-Rhodesian_ridgeback</folder>
+	<filename>n02087394_831.jpg</filename>
+	<path>/home/mila/code/go/perros/n02087394-Rhodesian_ridgeback/n02087394_831.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>616</width>
+		<height>437</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>36</ymin>
+			<xmax>535</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>

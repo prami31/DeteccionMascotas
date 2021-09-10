@@ -1,0 +1,26 @@
+<annotation>
+	<folder>n02113978-Mexican_hairless</folder>
+	<filename>n02113978_996.jpg</filename>
+	<path>/home/mila/code/go/perros/n02113978-Mexican_hairless/n02113978_996.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>603</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>64</ymin>
+			<xmax>580</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>

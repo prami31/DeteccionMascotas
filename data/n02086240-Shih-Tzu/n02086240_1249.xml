@@ -1,0 +1,26 @@
+<annotation>
+	<folder>n02086240-Shih-Tzu</folder>
+	<filename>n02086240_1249.jpg</filename>
+	<path>/home/mila/code/go/perros/n02086240-Shih-Tzu/n02086240_1249.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>8</ymin>
+			<xmax>440</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>
