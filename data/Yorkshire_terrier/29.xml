@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Yorkshire_terrier</folder>
+	<filename>29.jpg</filename>
+	<path>D:\Aprendizaje Automático\Proyecto\Images\Images\Fio\n02094433-Yorkshire_terrier\Yorkshire_terrier\29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>745</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>34</ymin>
+			<xmax>706</xmax>
+			<ymax>738</ymax>
+		</bndbox>
+	</object>
+</annotation>

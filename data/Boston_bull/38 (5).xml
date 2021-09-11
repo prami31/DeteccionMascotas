@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Boston_bull</folder>
+	<filename>38.jpg</filename>
+	<path>D:\Aprendizaje Automático\Proyecto\Images\Images\Fio\n02096585-Boston_bull\Boston_bull\38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>76</ymin>
+			<xmax>421</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>12</ymin>
+			<xmax>329</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

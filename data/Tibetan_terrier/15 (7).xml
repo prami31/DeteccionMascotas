@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tibetan_terrier</folder>
+	<filename>15.jpg</filename>
+	<path>D:\Aprendizaje Automático\Proyecto\Images\Images\Fio\n02097474-Tibetan_terrier\Tibetan_terrier\15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>42</ymin>
+			<xmax>382</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>
