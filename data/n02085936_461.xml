@@ -1,0 +1,26 @@
+<annotation>
+	<folder>n02085936-Maltese_dog</folder>
+	<filename>n02085936_461.jpg</filename>
+	<path>D:\n02085936-Maltese_dog\n02085936_461.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>335</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>1</ymin>
+			<xmax>399</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>
