@@ -30,3 +30,5 @@ Proyecto hecho en python para el reconocimiento en tiempo real de canes perdidos
 - **Mariela Luycho Ancaifuro** - _GitHub Account - [Mariela112](https://github.com/MLuAnc)
 - **Alexander Javier Huaman Guevara** - _GitHub Account - [alexanderhg22](https://github.com/alexanderhg22)
 - **Charlie Joel Luna Ccasani** - _GitHub Account - [CharlieLuna312](https://github.com/CharlieLuna312)
+- **Vladimir Dante Casilla Percca** - _GitHub Account - [Casillas9856](https://github.com/Casillas9856)
+- 
