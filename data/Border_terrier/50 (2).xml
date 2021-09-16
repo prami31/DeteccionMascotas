@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Border_terrier</folder>
+	<filename>50.jpg</filename>
+	<path>D:\Aprendizaje Automático\Proyecto\Images\Images\Fio\n02093754-Border_terrier\Border_terrier\50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>57</ymin>
+			<xmax>389</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

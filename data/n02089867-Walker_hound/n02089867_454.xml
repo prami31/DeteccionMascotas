@@ -1,0 +1,26 @@
+<annotation>
+	<folder>n02089867-Walker_hound</folder>
+	<filename>n02089867_454.jpg</filename>
+	<path>D:\n02089867-Walker_hound\n02089867_454.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>271</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>17</ymin>
+			<xmax>204</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

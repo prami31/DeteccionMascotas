@@ -1,0 +1,26 @@
+<annotation>
+	<folder>n02095570-Lakeland_terrier</folder>
+	<filename>n02095570_393.jpg</filename>
+	<path>D:\n02095570-Lakeland_terrier\n02095570_393.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>27</ymin>
+			<xmax>348</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>n02099267-flat-coated_retriever</folder>
+	<filename>n02099267_198.jpg</filename>
+	<path>D:\n02099267-flat-coated_retriever\n02099267_198.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>436</width>
+		<height>386</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>20</ymin>
+			<xmax>413</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

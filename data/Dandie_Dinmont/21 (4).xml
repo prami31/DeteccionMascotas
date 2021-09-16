@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dandie_Dinmont</folder>
+	<filename>21.jpg</filename>
+	<path>D:\Aprendizaje Automático\Proyecto\Images\Images\Fio\n02096437-Dandie_Dinmont\Dandie_Dinmont\21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>230</width>
+		<height>154</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>65</ymin>
+			<xmax>184</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>

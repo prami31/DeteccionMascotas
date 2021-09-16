@@ -1,0 +1,26 @@
+<annotation>
+	<folder>American_Staffordshire_terrier</folder>
+	<filename>35.jpg</filename>
+	<path>D:\Aprendizaje Automático\Proyecto\Images\Images\Fio\n02093428-American_Staffordshire_terrier\American_Staffordshire_terrier\35.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>344</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>93</ymin>
+			<xmax>297</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>
